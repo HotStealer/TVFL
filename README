@@ -1,0 +1,17 @@
+# Numbrimäng
+
+## Esimene osa
+Vahemik 1-100, mitu arvamist. IF statment kas sisestatud number on vahemikus
+
+## Teine osa
+Genereeri suvaline number vahemikus
+
+## Kolmas osa
+Event listner jääb pakkumist ootama
+
+## Neljas osa
+Kontrolli kas võideti, IF statment kontrollib väärtust, kui on õige väljastab numbri ja "Võitsid" sõnumi. 
+
+## Viies osa
+Juhul kui on vale vähenda arvamiste arvu 1 võrra, kui arvamiste arv on 0, siis edastada sõnum "Kaotasid" 
+ja väljastab sisestatud vale numbri. Kui on rohkem kui 1 arvamine jäänud siis mäng jätkub
