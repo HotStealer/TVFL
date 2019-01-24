@@ -1,0 +1,163 @@
+*{
+    margin:0;
+    padding:0;
+    color:#ED6A5A;
+    text-shadow:1px 1px #E6EBE0;
+    font-weight:bolder;
+}
+
+body{
+
+    margin-left:auto;
+    margin-right:auto;
+    background:#E6EBE0;
+  
+}
+.container{
+    width:100%;
+    margin-left:auto;
+    margin-right:auto;
+    font-family:garamond;
+    overflow:hidden;
+}
+.hero img{
+    width:100%;
+    height:875px;
+    background-size:cover;
+}
+.nav{
+    width:100%;
+    height:100px;
+    background:#9BC1BC;
+    margin:0;
+    box-shadow: 3px 3px #E6EBE0;
+}
+ul{
+    text-decoration: none;
+    float:right;
+    list-style: none;
+}
+ul li, ul li a{
+    float:left;
+    display:inline;
+    width:200px;
+    height:80px;
+    line-height: 80px;
+    margin-top:5px;
+    margin-bottom: 5px;
+    text-align: center;
+    color:#ED6A5A;
+    font-weight: bold;
+    font-size:20px;
+    margin-right:20px;
+    text-decoration: none;
+}
+.nav ul li a:hover, .nav ul li a:active{
+    background:#5CA4A9;
+}
+ul li img{
+    height:100px;
+    float:left;
+    margin-left:0px;
+}
+.allanimal{
+    margin-top:50px;
+    width:1440px;
+    background:white;
+    display:inline-block;
+}
+.animal{
+    margin-left:35px;
+    margin-right:35px;
+    display:inline-block;
+    line-height: 300px;
+    text-align: center;
+    width:300px;
+    height:300px;
+    box-shadow: 3px 3px #E6EBE0;
+}
+.animal h2{
+    color:#ED6A5A;
+    font-size:40px;
+    text-shadow:1px 1px #E6EBE0;
+}
+.contact{
+    margin-left:180px;
+    margin-right:35px;
+    width:400px;
+    height:180px;
+    background:#9BC1BC;
+    padding:40px;
+    float:left;
+    box-shadow: 3px 3px #E6EBE0;
+}
+.maps{
+    margin-left:1px;
+    margin-right:180px;
+    height:260px;
+    float:right;
+    width:400px;
+    box-shadow: 3px 3px #E6EBE0;
+}
+.footer{
+    background:#9BC1BC;
+    height:200px;
+    width:1440px;
+    overflow:hidden;
+}
+.info{
+    height:180px;
+    margin-left:35px;
+    margin-right:35px;
+    width:300px;
+    display:inline-block;
+
+}
+#support{
+    margin-left:120px;
+}
+#content{
+    margin-left:120px;
+}
+.mapsinfo{
+    margin-top:50px;
+    margin-bottom:50px;
+    width:1440px;
+    display:inline-block;
+}
+h1 a{
+    width:100%;
+    text-align: center;
+    font-size:100px;
+    font-weight:bold;
+    position:absolute;
+    margin-left:auto;
+    margin-right:auto;
+    line-height:875px;
+    color:white;
+    text-shadow:2px 2px grey;
+}
+#dog {
+    margin-left:180px;
+    background-image:url(img/koerad.jpg);
+    background-size:400px;
+    
+}
+#cat {
+    background-image:url(img/kass1.jpg);
+    background-size:300px;
+    margin-left:51px;
+    margin-right:51px;
+}
+#others {
+    margin-right:180px;
+    background-image:url(img/muud.jpg);
+    background-size:300px;
+}
+i{
+    margin-left:15px;
+}
+.content{
+    background:white;
+}
+
